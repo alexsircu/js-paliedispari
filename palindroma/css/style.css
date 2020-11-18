@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #070C52;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.mini-container {
+  margin: 20px;
+}
+
+#cont-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 50px;
+  background-color: white;
+  font-size: 20px;
+}
+
+#word {
+  width: 400px;
+  height: 50px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 20px;
+}
+
+#test-word {
+  width: 100px;
+  background-color:
+}
